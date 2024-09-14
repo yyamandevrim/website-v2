@@ -1,7 +1,7 @@
 {
   "name": "website-v2",
   "type": "module",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
@@ -13,5 +13,10 @@
     "astro": "^4.15.6",
     "@astrojs/check": "^0.9.3",
     "typescript": "^5.6.2"
-  }
+  },
+  "description": "source code for my w2 website",
+  "main": "index.js",
+  "devDependencies": {},
+  "author": "yyamandevrim",
+  "license": "GPL-2.0"
 }
